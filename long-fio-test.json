@@ -256,7 +256,7 @@
         "typeHandlerVersion": "2.0",
         "autoUpgradeMinorVersion": true,
         "settings": {
-          "script": "IyEvYmluL3NoCgphcHQtZ2V0IHVwZGF0ZQoKYXB0LWdldCBpbnN0YWxsIC15IGZpbyBkc3RhdAoKIyBHZXQgYWxsIGRhdGEgZGlza3MgdmlhIHN5bWxpbmtzIGNyZWF0ZWQgYnkgQXp1cmUgdWRldiBydWxlcwpEQVRBX0RJU0tTPSQobHMgLWQgL2Rldi9kaXNrL2F6dXJlL3Njc2kxLyogfCB0ciAnXG4nICc6JykKCmNhdCA+IC90bXAvam9iMS5maW8gPDwgRU9MCltnbG9iYWxdCmJzPTI1NmsKaW9kZXB0aD04MApkaXJlY3Q9MQppb2VuZ2luZT1saWJhaW8KZ3JvdXBfcmVwb3J0aW5nCnRpbWVfYmFzZWQKcnVudGltZT0yNTkyMDAwCmZpbGVzaXplPTEwRwpydz1yZWFkCgpbam9iMV0KZmlsZW5hbWU9JHtEQVRBX0RJU0tTfQpFT0wKCmNhdCAvdG1wL2pvYjEuZmlvCgpub2h1cCBiYXNoIC1jICIoZmlvIC90bXAvam9iMS5maW8pIiAmPiAvdG1wL2Zpby5vdXQgJg=="
+          "script": "IyEvYmluL3NoCgphcHQtZ2V0IHVwZGF0ZQoKYXB0LWdldCBpbnN0YWxsIC15IGZpbyBkc3RhdAoKIyBHZXQgYWxsIGRhdGEgZGlza3MgdmlhIHN5bWxpbmtzIGNyZWF0ZWQgYnkgQXp1cmUgdWRldiBydWxlcwpEQVRBX0RJU0tTPSQobHMgLWQgL2Rldi9kaXNrL2F6dXJlL3Njc2kxLyogfCB0ciAnXG4nICc6JykKCmNhdCA+IC90bXAvam9iMS5maW8gPDwgRU9MCltnbG9iYWxdCmJzPTI1NmsKaW9kZXB0aD04MApkaXJlY3Q9MQppb2VuZ2luZT1saWJhaW8KZ3JvdXBfcmVwb3J0aW5nCnRpbWVfYmFzZWQKcnVudGltZT0yNTkyMDAwCmZpbGVzaXplPTFHCnJ3PXJlYWQKCltqb2IxXQpmaWxlbmFtZT0ke0RBVEFfRElTS1N9CkVPTAoKY2F0IC90bXAvam9iMS5maW8KCm5vaHVwIGJhc2ggLWMgIihmaW8gL3RtcC9qb2IxLmZpbykiICY+IC90bXAvZmlvLm91dCAm"
         },
         "protectedSettings": {}
       }

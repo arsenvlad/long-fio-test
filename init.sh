@@ -16,7 +16,7 @@ ioengine=libaio
 group_reporting
 time_based
 runtime=2592000
-filesize=10G
+filesize=1G
 rw=read
 
 [job1]
